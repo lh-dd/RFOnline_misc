@@ -1,0 +1,50 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC]
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI]
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\BILLING]
+"Driver"="C:\\Windows\\system32\\msodbcsql18.dll"
+"Server"="localhost"
+"TrustServerCertificate"="Yes"
+"ClientCertificate"=""
+"KeystoreAuthentication"=""
+"KeystorePrincipalId"=""
+"KeystoreSecret"=""
+"KeystoreLocation"=""
+"RetryExec"=""
+"Trusted_Connection"="Yes"
+"Database"="BILLING"
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\ODBC Data Sources]
+"RF_User"="ODBC Driver 18 for SQL Server"
+"RF_World"="ODBC Driver 18 for SQL Server"
+"BILLING"="ODBC Driver 18 for SQL Server"
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\RF_User]
+"Driver"="C:\\Windows\\system32\\msodbcsql18.dll"
+"Server"="localhost"
+"TrustServerCertificate"="Yes"
+"ClientCertificate"=""
+"KeystoreAuthentication"=""
+"KeystorePrincipalId"=""
+"KeystoreSecret"=""
+"KeystoreLocation"=""
+"RetryExec"=""
+"Trusted_Connection"="Yes"
+"Database"="RF_User"
+
+[HKEY_CURRENT_USER\SOFTWARE\ODBC\ODBC.INI\RF_World]
+"Driver"="C:\\Windows\\system32\\msodbcsql18.dll"
+"Server"="localhost"
+"TrustServerCertificate"="Yes"
+"ClientCertificate"=""
+"KeystoreAuthentication"=""
+"KeystorePrincipalId"=""
+"KeystoreSecret"=""
+"KeystoreLocation"=""
+"RetryExec"=""
+"Trusted_Connection"="Yes"
+"Database"="RF_World"
+
