@@ -1,0 +1,4 @@
+all ips set to 127.0.0.1
+login port set to 10001
+
+MD5: 3D17A9493168935E49FB99A0DEC32970
