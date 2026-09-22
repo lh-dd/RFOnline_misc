@@ -1,0 +1,6 @@
+Source: from ccr.project alpha server files
+
+/alpha_16.04.2004/	contains alpha server MonsterCharacter.dat.old	16.04.2004	(names are in korean)
+/alpha_23.05.2005/	contains alpha server MonsterCharacter.dat	23.05.2005	(names are in korean)
+
+Notes: alpha server did not have pitbosses.

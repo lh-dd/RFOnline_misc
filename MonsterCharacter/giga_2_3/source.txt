@@ -1,0 +1,6 @@
+Source: from giga3 server files
+
+/giga_2_beta/	contains giga2/beta MonsterCharacter_.dat	09.02.2006	(names are in chinese) (this is also the day 1 pitboss stats)
+/giga_3/	contains giga3 MonsterCharacter.dat	23.05.2007	(names are in brazil)
+
+Notes: The 2.1.6 server files also contain a backup of giga_2_beta stats with the same hash/date with the MonsterCharacter_.dat 09.02.2006.
