@@ -1,0 +1,3 @@
+\Program Files (x86)\CCR INC\RFOnline\Character\Monster\Ani\LUNKER_WARIDLE_01_00.ANI
+\Program Files (x86)\CCR INC\RFOnline\Character\Monster\Ani\oriANABOLA.RFS
+\Program Files (x86)\CCR INC\RFOnline\Character\Monster\Ani\RFSInfo.dat
